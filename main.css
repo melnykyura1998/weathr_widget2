@@ -24,7 +24,7 @@
     color: wheat;
 }
 .weatherStatus{
-    font-size: 30px;
+    font-size: 31px;
     color: wheat;
 }
 .temp{
@@ -51,7 +51,7 @@ body{
 }
 .mainButton:hover{
     background: #e1673c;
-    box-shadow: 0px 0px 10px #524e4e;
+    box-shadow: 0 0 10px #524e4e;
 }
 a{
     text-decoration: none;
